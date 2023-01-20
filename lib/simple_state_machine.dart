@@ -77,7 +77,7 @@ class _AnimatedLikeIconState extends State<AnimatedLikeIcon> {
         }),
         Container(
           decoration: BoxDecoration(
-            border: Border.all(color: Colors.purple, width: 1, strokeAlign: StrokeAlign.center),
+            border: Border.all(color: Colors.purple, width: 1),
           ),
           width: 100,
           height: 100,
